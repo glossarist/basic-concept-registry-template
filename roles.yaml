@@ -1,0 +1,10 @@
+# This file serves to instruct Glossarist which features to enable for which user.
+
+# Currently, users who are not register managers of the concept system
+# do not need to be listed (only managers do).
+
+# NOTE: This does not enforce the usage of the app in accordance with user role,
+# which must be handled with authentication, Git hooks and/or usage audits.
+
+gitUsernameGoesHere:
+  isManager: true
