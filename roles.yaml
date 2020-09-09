@@ -12,5 +12,5 @@
 gitUsernameGoesHere:
   isManager: true
 
-anotherGitUsernameGoesHere:
-  isRegistryManager: true
+#anotherGitUsernameGoesHere:
+#  isRegistryManager: true
